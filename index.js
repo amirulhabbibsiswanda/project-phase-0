@@ -5,6 +5,6 @@ function register() {
     let nama = document.getElementById("username").value
     localStorage.setItem("username", nama)
 
-    window.location.href='/main-page/index.html'
+    window.location.href='main-page/index.html'
     
 }

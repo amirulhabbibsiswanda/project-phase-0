@@ -1,5 +1,5 @@
 // console.log(document.getElementById("audio"), "audio");
-// document.getElementById("audio").volume = 0.5
+document.getElementById("audio").volume = 0.5
 
 // console.log(document.getElementById("audioKlik"), "auido klik");
 
@@ -14,8 +14,8 @@ let sisa;
 
 
 function user() { //isi saldo
-  document.getElementById("audio").play()
-  document.getElementById("audio").volume = 0.5
+  // document.getElementById("audio").play()
+  // document.getElementById("audio").volume = 0.5
   
   let deposit = prompt("Isi dompet anda dengan nilai 100.000 (tanpa titik)");
   

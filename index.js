@@ -7,4 +7,9 @@ function register() {
 
     window.location.href='main-page/index.html'
     
+    // let webSound = localStorage.getItem("webSound")
+    // webSound.play()
+    // webSound.volume = 0.5
+
+    
 }

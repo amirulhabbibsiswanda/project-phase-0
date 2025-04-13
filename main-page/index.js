@@ -1,5 +1,8 @@
 // console.log(document.getElementById("audio"), "audio");
-document.getElementById("audio").volume = 0.5
+document.getElementById("audio").volume = 0.5 //DIMATIKAN DULU
+
+// let webSound = document.getElementById("audio")
+// localStorage.setItem("webSound", webSound)
 
 // console.log(document.getElementById("audioKlik"), "auido klik");
 
